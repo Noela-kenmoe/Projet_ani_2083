@@ -218,3 +218,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Photos des étudiants : données personnelles
+Projet_Reconnaissance_Faciale/dataset/
+Projet_Reconnaissance_Faciale/captures/
+
+# Modèles entraînés
+Projet_Reconnaissance_Faciale/model/
+
+# Environnements virtuels
+venv/
+Projet_Reconnaissance_Faciale/venv/
+
+# Cache Python
+__pycache__/
+*.pyc
